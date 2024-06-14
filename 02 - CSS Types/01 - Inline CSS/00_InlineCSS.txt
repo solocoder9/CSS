@@ -1,0 +1,10 @@
+Inline CSS
+----------
+- Inline CSS is a method of applying CSS styles directly to HTML elements using the style 
+  attribute within the opening tag of the element. 
+- This approach is useful for applying unique styles to individual elements quickly, but 
+  it is generally not recommended for larger projects due to its lack of reusability and 
+  separation of concerns.
+  
+- Example:
+    <h1 style="color: blue; font-family: Arial, sans-serif;">This is a Heading</h1>
