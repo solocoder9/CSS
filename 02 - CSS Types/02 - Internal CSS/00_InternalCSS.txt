@@ -1,0 +1,19 @@
+Internal CSS
+------------
+- Internal CSS is a method of applying CSS styles directly within an HTML document. 
+- It is defined inside a <style> tag placed within the <head> section of the HTML file. 
+- This type of CSS is useful for styling a single document and can be more convenient 
+  for small projects or specific pages.
+
+- Example:
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        color: blue;
+      }
+      p {
+        color: green;
+      }
+    </style>
