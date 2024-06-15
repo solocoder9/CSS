@@ -1,0 +1,18 @@
+External CSS
+------------
+- External CSS is a method of applying CSS styles to a web page by linking to a separate CSS file. 
+- This file contains all the style rules and is linked to the HTML document using the <link> tag 
+  within the <head> section. External CSS is a best practice for larger websites and projects because 
+- it promotes separation of concerns, reusability, and easier maintenance.
+
+- Example:
+    /* styles.css */
+    body {
+        font-family: Arial, sans-serif;
+    }
+    h1 {
+        color: blue;
+    }
+    p {
+        color: green;
+    }
