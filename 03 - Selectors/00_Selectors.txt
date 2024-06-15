@@ -1,0 +1,28 @@
+Selectors in CSS
+----------------
+- Selectors in CSS are patterns used to select and style HTML elements. 
+- They allow you to apply styles to specific elements based on their name, id, class, 
+  attributes, and more.
+- There are mainly 5 catagories of CSS selectors:-
+    1> Simple Selectors
+    2> Combinator Selectors
+    3> Pseudo-class Selectors
+    4> Pseudo-element Selectors
+    5> Attribute Selectors
+
+1> Simple Selectors
+~~~~~~~~~~~~~~~~~~~
+- There are 5 types of simple selectors
+        1> Element Selectors
+        2> ID Selectors
+        3> Class Selectors
+        4> Universal Selectors
+        5> Group Selectors
+
+2> Combinator Selectors
+~~~~~~~~~~~~~~~~~~~~~~~
+- There are 4 types of combinator selectors
+        1> Descendant Selectors
+        2> Child Selectors
+        3> Adjacent Sibling Selectors
+        4> General Sibling Selectors
