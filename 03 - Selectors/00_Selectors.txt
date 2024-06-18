@@ -13,16 +13,24 @@ Selectors in CSS
 1> Simple Selectors
 ~~~~~~~~~~~~~~~~~~~
 - There are 5 types of simple selectors
-        1> Element Selectors
-        2> ID Selectors
-        3> Class Selectors
-        4> Universal Selectors
-        5> Group Selectors
+        1> Element Selector
+        2> ID Selector
+        3> Class Selector
+        4> Universal Selector
+        5> Group Selector
 
 2> Combinator Selectors
 ~~~~~~~~~~~~~~~~~~~~~~~
 - There are 4 types of combinator selectors
-        1> Descendant Selectors
-        2> Child Selectors
-        3> Adjacent Sibling Selectors
-        4> General Sibling Selectors
+        1> Descendant Selector
+        2> Child Selector
+        3> Adjacent Sibling Selector
+        4> General Sibling Selector
+
+3> Pseudo-class Selectors
+~~~~~~~~~~~~~~~~~~~~~~~~~
+- Some commonly used psuedo-class selectors are
+        1> :link
+        2> :active
+        3> :visited
+        4> :hover
