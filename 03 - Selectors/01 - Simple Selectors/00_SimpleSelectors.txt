@@ -1,0 +1,63 @@
+Simple Selectors
+----------------
+- Simple selectors are the basic building blocks of CSS selectors. 
+- They are used to target and apply styles to HTML elements based on their type, class, 
+  id, or attributes.
+- There are 5 types of simple selectors:
+    1> Element Selector
+    2> ID Selector
+    3> Class Selector
+    4> Universal Selector
+    5> Group Selector
+
+1> Element Selector
+~~~~~~~~~~~~~~~~~~~
+- Element Selector (also known as a type selector) is a CSS selector that targets all HTML 
+  elements of a given type. 
+- It applies the specified styles to every instance of that element within the document.
+- Example:
+    p {
+        color: blue;
+    }
+
+2> ID Selector
+~~~~~~~~~~~~~~
+- ID Selector is a CSS selector that targets a single HTML element based on its unique 'id' 
+  attribute. 
+- It applies the specified styles to that specific element and is denoted by a hash (#).
+- Example:
+    #myId {
+        color: red;
+    }
+
+3> Class Selector
+~~~~~~~~~~~~~~~~~
+- Class Selector is a CSS selector that targets all HTML elements with a specific class attribute. 
+- It applies the specified styles to every element that has the specified class and is denoted by 
+  a dot (.).
+- Example:
+    .myClass {
+        color: green;
+    }
+
+4. Universal Selector
+~~~~~~~~~~~~~~~~~~~~~
+- Universal Selector is a CSS selector that targets all HTML elements on a web page. 
+- It applies the specified styles to every element and is denoted by an asterisk (*).
+- Example:
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+5. Group Selector
+~~~~~~~~~~~~~~~~~
+- Group Selector is a CSS selector that allows you to apply the same styles to multiple elements. 
+- It groups several selectors together, separated by commas, and applies the specified styles to all 
+  of the grouped elements.
+- Example:
+    h1, h2, h3 {
+        color: blue;
+        font-family: Arial, sans-serif;
+    }
+
