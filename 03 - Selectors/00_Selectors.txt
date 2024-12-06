@@ -3,7 +3,7 @@ Selectors in CSS
 - Selectors in CSS are patterns used to select and style HTML elements. 
 - They allow you to apply styles to specific elements based on their name, id, class, 
   attributes, and more.
-- There are mainly 5 catagories of CSS selectors:-
+- There are mainly 5 categories of CSS selectors:-
     1> Simple Selectors
     2> Combinator Selectors
     3> Pseudo-class Selectors
